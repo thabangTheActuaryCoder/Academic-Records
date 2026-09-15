@@ -10,7 +10,7 @@ Official academic records, transcripts, and certificates for Thabang Bongani Jun
 | Bachelor of Commerce | University of Cape Town | 2022 |
 | BSc Honours (Statistics & Data Science) | University of Cape Town | 2025 |
 | MSc (Mathematical Statistics & Actuarial Sciences) | University of the Free State | 2026 |
-| PhD (Mathematical Statistics) | University of the Free State | In progress |
+| PhD (Mathematical Statistics) | University of the Witwatersrand | In progress |
 
 ## Documents
 
